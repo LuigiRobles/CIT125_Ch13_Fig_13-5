@@ -1,7 +1,7 @@
 // CIT125 Intro to C++ Luigi Robles
 // 08-01-2020 Summer Term
 // Ch.13 pg.465-466 Fig.13-5 Primrose Auction House
-
+// Displays a buyer's name and premium
 
 #include <iostream>
 #include <iomanip>
